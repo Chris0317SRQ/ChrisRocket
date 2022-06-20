@@ -5,7 +5,7 @@
 ## Length Contraction
 > For length on the motion vector
 
-![Screenshot from 2022-06-21 05-20-29](https://user-images.githubusercontent.com/45451908/174679448-b704e26b-7c87-4bfb-afc7-683b9cd01273.png)
+![Screenshot from 2022-06-21 05-45-42](https://user-images.githubusercontent.com/45451908/174681468-ccab8c12-d833-469b-86f2-2051d459dcab.png)
 
 # Lorentz Transformation
 ![Screenshot from 2022-06-21 05-38-59](https://user-images.githubusercontent.com/45451908/174680888-c9cbf7a7-4315-4a0b-a0a2-9a8f25679c60.png)
