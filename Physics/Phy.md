@@ -6,6 +6,6 @@
 
 |Chapter|Note|Code|
 |-|-|-|
-|[Lorentz Transform](Physics/LorentzTransform.md)|||
+|[Lorentz Transform](LorentzTransform.md)|||
 |Dynamical System|
 

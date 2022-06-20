@@ -6,4 +6,4 @@
 
 |Code| Characteristic|
 |-|-|
-|[N-fold Cross Validation](ML/Nfold.md)|Preprocess|
+|[N-fold Cross Validation](Nfold.md)|Preprocess|
