@@ -16,7 +16,7 @@
 ## Summer
 
 ### [Machine Learning](ML.md)
-Machine Learning is an extremely important tool in engineering. Thus, I learn and discuss with a friend of mine from Chenggong Senior High School. We are so self-discipline that we even discuss and present regularly two times per week.
+Machine Learning is an essential tool in engineering. Thus, I learned and discussed it with a Chenggong Senior High School friend. We are so self-disciplined that we even discuss, and Google meets twice weekly.
 ### [Fundamental of Physics](Phy.md)
 ```java
 Tree=Physics;
@@ -32,8 +32,11 @@ DFS(Tree.Root);
 BFS(Tree.Root);
 ```
 ### [Mathematical Modeling and Control System](Control.md)
-I start learning Control System since January, 2022, right after I was admitted by NCKU. I started because of the work in ADCS Design requires, which is actually an accident. However, I felt in love with Control and Guidance gradually. I decided to DFS deeper into the knowledge of Guidance, Navigation, and Control (GNC).
+I started learning Control System in January 2022, right after NCKU admitted me. I started because of the work ADCS Design requires, which is an accident. However, I gradually fell in love with Control and Guidance, and I decided to DFS deeper into the knowledge of Guidance, Navigation, and Control (GNC).
 ### [Kibo RPC 3rd](KRPC.md)
-This is the third time I participated in the Astrobee Programming Challenge. We are a team consisted of NTUEE, NCKU, and fellows from Tunisia. Our team is divided into group Path, Motion, and Optimization. I was the team leader last year and year before and its really tired because of the extra tasks. However, I'm not this year. I'm the leader of group Path. I designed Hessian Matrix Solution to the Path optimization Mathematical Model, Edge dividing search method, and an algorithm to detect if the Path pass through KOZ.
+This is the third time I have participated in the Astrobee Programming Challenge. We are a team consisting of NTUEE, NCKU, and fellows from Tunisia. Our team is divided into three groups: Path, Motion, and Optimization. I'm the leader of the group Path. I designed Hessian Matrix Solution to the Path optimization Mathematical Model, Edge dividing search method, and an algorithm to detect if the Path pass through KOZ.
 
 ### Rocket GNC
+Designing a rocket, traveling in space, and becoming an engineer working on cutting-edge technology is always one of my dreams. There's one characteristic in which I am significantly different from most Taiwanese students: I not only daydream about achieving any great goals but also do my best to find resources, spend time studying the subject, and implement it. If one doesn't try, one will never go nearer to success. Thus, after spending time learning the fundamentals of Rocket GNC, I immediately sent an email to Prof.Wei, not expecting ARRC to admit me. Out of the blue, I was admitted the next day. 
+
+I'm learning currently by controlling a motor with many flaws. Possibly, I will start researching a hybrid rocket in July.
