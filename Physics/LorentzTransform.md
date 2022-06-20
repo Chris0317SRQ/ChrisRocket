@@ -1,4 +1,6 @@
 # Prequirements
+> For motion of light clock
+
 ## Time Dilation
 ![Screenshot from 2022-06-21 05-24-51](https://user-images.githubusercontent.com/45451908/174679576-53167eda-dd44-493b-b574-0e70c0900ae7.png)
 
