@@ -1,6 +1,7 @@
 # Lorentz Transformation
 ## Length Contraction
-For length on the motion vector
+> For length on the motion vector
+
 ![Screenshot from 2022-06-21 05-20-29](https://user-images.githubusercontent.com/45451908/174679448-b704e26b-7c87-4bfb-afc7-683b9cd01273.png)
 
 ## Time Dilation
