@@ -19,10 +19,10 @@ Email **hyuchen869@gmail.com** if you require a guide, a tutor, or collaboration
 
 ## Fundamentals
 
-### [Machine Learning](ML.md)
+### [Machine Learning](ML/ML.md)
 Machine Learning is an essential tool in engineering. Thus, I learned and discussed it with a Chenggong Senior High School friend. We are so self-disciplined that we even discuss, and Google meets twice weekly.
 
-### [Fundamental of Physics](Phy.md)
+### [Fundamental of Physics](Physics/Phy.md)
 ```java
 Tree=Physics;
 Tree.Root=NTHU_AP_Phy;
@@ -30,7 +30,7 @@ DFS(Tree.Root);
 BFS(Tree.Root);
 ```
 
-### [Calculus](Cal.md)
+### [Calculus](Calculus/Cal.md)
 ```java
 Tree=Calculus;
 Tree.Root=NTHU_AP_Cal;
