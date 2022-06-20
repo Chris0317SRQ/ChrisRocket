@@ -4,7 +4,6 @@
 
 ### Code
 ```python
-
 # scikit-learn k-fold cross-validation
 from numpy import array
 from sklearn.model_selection import KFold

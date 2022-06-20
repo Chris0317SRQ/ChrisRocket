@@ -42,7 +42,7 @@ BFS(Tree.Root);
 Participating in Taipei's Algorithm Academic ability contest was the beginning of my unique academic career. Perhaps studying a regular computer science course is a nice try.
 
 
-## Control, Algorithms and Guidance
+## Control, Algorithms, and Guidance
 
 ### [Mathematical Modeling and Control System](Control.md)
 I started learning Control System in January 2022, right after NCKU admitted me. I started because of the work ADCS Design requires, which is an accident. However, I gradually fell in love with Control and Guidance, and I decided to DFS deeper into the knowledge of Guidance, Navigation, and Control (GNC).
