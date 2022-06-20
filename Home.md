@@ -10,26 +10,9 @@
 |18| ADCS Engineer(Intern)|NSPO-YuSat 2|Attitude Determination and Control System (ADCS)|
 |19| ARRC (intern student)|NYCUME|Rocket|
 
+## 2022-Building a Robust Knowledge Base
 ### [Machine Learning](ChrisRocket.github.io/ML)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Mathematic Modeling and Control System
+### Mathematical Modeling and Control System
 
 ### Rocket GNC
