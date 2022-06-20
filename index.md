@@ -61,7 +61,7 @@ This is the third time I have participated in the Astrobee Programming Challenge
 
 ## Preparation for University
 
-### [IELTS](IELTS)
+### [IELTS](English/IELTS.md)
 
 # Autumn, 2022
 
