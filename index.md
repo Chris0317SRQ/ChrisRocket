@@ -17,16 +17,16 @@ Email **hyuchen869@gmail.com** if you require a guide, a tutor, or collaboration
 
 ## Summer, 2022
 
-### [Machine Learning](ML.md)
+### [Machine Learning](ML/ML.md)
 Machine Learning is an essential tool in engineering. Thus, I learned and discussed it with a Chenggong Senior High School friend. We are so self-disciplined that we even discuss, and Google meets twice weekly.
-### [Fundamental of Physics](Phy.md)
+### [Fundamental of Physics](Physics/Phy.md)
 ```java
 Tree=Physics;
 Tree.Root=NTHU_AP_Phy;
 DFS(Tree.Root);
 BFS(Tree.Root);
 ```
-### [Calculus](Cal.md)
+### [Calculus](Calculus/Cal.md)
 ```java
 Tree=Calculus;
 Tree.Root=NTHU_AP_Cal;
@@ -43,7 +43,7 @@ Designing a rocket, traveling in space, and becoming an engineer working on cutt
 
 I'm learning currently by controlling a motor with many flaws. Possibly, I will start researching a hybrid rocket in July.
 
-### [IELTS](IELTS)
+### [IELTS](English/IELTS)
 ## Autumn, 2022
 
 ### Apply for NTHU and NYCU
