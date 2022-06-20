@@ -13,6 +13,6 @@
 ## 2022-Building a Robust Knowledge Base
 ### [Machine Learning](ChrisRocket.github.io/ML)
 
-### Mathematical Modeling and Control System
+### [Mathematical Modeling and Control System](Control.md)
 
 ### Rocket GNC
