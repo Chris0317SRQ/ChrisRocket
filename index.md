@@ -10,6 +10,8 @@
 |18| ADCS Engineer(Intern)|NSPO-YuSat 2|Attitude Determination and Control System (ADCS)|
 |19| ARRC (intern student)|NYCUME|Rocket Engineering|
 
+#### Contact details
+Email **hyuchen869@gmail.com** if you require a guide, a tutor, or collaboration issues.
 # 2022~2024 Building a Robust Knowledge Base
 > [Study Plan](Study_Plan.html)
 
