@@ -11,9 +11,9 @@
 |19| ARRC (intern student)|NYCUME|Rocket Engineering|
 
 # 2022~2024 Building a Robust Knowledge Base
-## [Study Plan](Study_Plan.html)
+> [Study Plan](Study_Plan.html)
 
-## Summer
+## Summer, 2022
 
 ### [Machine Learning](ML.md)
 Machine Learning is an essential tool in engineering. Thus, I learned and discussed it with a Chenggong Senior High School friend. We are so self-disciplined that we even discuss, and Google meets twice weekly.
@@ -36,7 +36,9 @@ I started learning Control System in January 2022, right after NCKU admitted me.
 ### [Kibo RPC 3rd](KRPC.md)
 This is the third time I have participated in the Astrobee Programming Challenge. We are a team consisting of NTUEE, NCKU, and fellows from Tunisia. Our team is divided into three groups: Path, Motion, and Optimization. I'm the leader of the group Path. I designed Hessian Matrix Solution to the Path optimization Mathematical Model, Edge dividing search method, and an algorithm to detect if the Path pass through KOZ.
 
-### Rocket GNC
+### [Rocket GNC](RGNC.md)
 Designing a rocket, traveling in space, and becoming an engineer working on cutting-edge technology is always one of my dreams. There's one characteristic in which I am significantly different from most Taiwanese students: I not only daydream about achieving any great goals but also do my best to find resources, spend time studying the subject, and implement it. If one doesn't try, one will never go nearer to success. Thus, after spending time learning the fundamentals of Rocket GNC, I immediately sent an email to Prof.Wei, not expecting ARRC to admit me. Out of the blue, I was admitted the next day. 
 
 I'm learning currently by controlling a motor with many flaws. Possibly, I will start researching a hybrid rocket in July.
+
+## Autumn, 2022
