@@ -8,7 +8,7 @@
 |17| Space Engineer(Intern)|NSPO-YuSat 1|Satellite Engineering|
 |18| QCHack Quantum Reserch (World 3rd)|Yale University|Quantum Algorithm|
 |18| ADCS Engineer(Intern)|NSPO-YuSat 2|Attitude Determination and Control System (ADCS)|
-|19| ARRC (intern student)|NYCUME|Rocket Engineering|
+|19| ARRC (project student)|NYCUME|Rocket Engineering|
 
 #### Contact details
 Email **hyuchen869@gmail.com** if you require a guide, a tutor, or collaboration issues.
@@ -43,4 +43,8 @@ Designing a rocket, traveling in space, and becoming an engineer working on cutt
 
 I'm learning currently by controlling a motor with many flaws. Possibly, I will start researching a hybrid rocket in July.
 
+### [IELTS](IELTS)
 ## Autumn, 2022
+
+### Apply for NTHU and NYCU
+My math, science, and English score in the practice exam of GSAT is always 1%~2% nationally. Nonetheless, I could no longer afford the exam pressure and was admitted by NCKU in December. Therefore, I accept admission to NCKU. Nevertheless, after auditing a class and communicating with the school, I regretted the decision. I think NCKU doesn't care about students, lacks innovation, and is a closed learning environment. Thus, I am planning on transferring to other schools.
