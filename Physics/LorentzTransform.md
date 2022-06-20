@@ -2,6 +2,8 @@
 ## Length Contraction
 For length on the motion vector
 ```math
+l+v\Delta t_1=c\Delta t_1
+c\Delta t_2+v\Delta t_2=l
 l=l_0\sqrt{1-\frac{v^2}{c^2}}
 l=\frac{1}{\gamma}l_0
 ```
