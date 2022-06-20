@@ -47,4 +47,6 @@ I'm learning currently by controlling a motor with many flaws. Possibly, I will 
 ## Autumn, 2022
 
 ### Apply for NTHU and NYCU
-My math, science, and English score in the practice exam of GSAT is always 1%~2% nationally. Nonetheless, I could no longer afford the exam pressure and was admitted by NCKU in December. Therefore, I accept admission to NCKU. Nevertheless, after auditing a class and communicating with the school, I regretted the decision. I think NCKU doesn't care about students, lacks innovation, and is a closed learning environment. Thus, I am planning on transferring to other schools.
+My math, science, and English score in the practice exam of GSAT is always 1%~2% nationally. Nonetheless, I could no longer afford the exam pressure and was admitted by NCKU in December. Therefore, I accept admission to NCKU. Nevertheless, after auditing a class and communicating with the school, I regretted the decision. In fact, NCKU doesn't care about students, lacks innovation, and is a closed learning environment. Thus, I am planning on transferring to other schools.
+
+In conclusion, never choose NCKU if you have a better choice.
