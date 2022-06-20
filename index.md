@@ -11,7 +11,7 @@
 |19| ARRC (intern student)|NYCUME|Rocket Engineering|
 
 ## 2022-Building a Robust Knowledge Base
->[color=red] [Study Plan](Study_Plan.html)
+> [Study Plan](Study_Plan.html)
 
 ### [Machine Learning](ML.md)
 
