@@ -2,7 +2,7 @@
 
 
 ## Note
-> Acknowledgement: Some python simulation code are from CHU-RONG CHEN, a friend of mine who currently stdies in NTUEE.
+> Acknowledgement: Some python simulation code are from CHU-RONG CHEN, a friend of mine who currently studies in NTUEE.
 
 |Chapter|Note|Code|
 |-|-|-|
