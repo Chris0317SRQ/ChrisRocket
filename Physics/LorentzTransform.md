@@ -1,5 +1,10 @@
+# What is time?
+1. Time is one dimensional (For current scientific proofs)
+2. Time varies over the moving speed of an object (Relativity)
+3. Thus, Observer's velocity ⬆=> Δt of the Observed inertia frame ⬆
 # Prequirements
 > For motion of light clock
+> Δt′ is the time interval between those same events, as measured by another observer, inertially moving with velocity v with respect to the former observer, v is the relative velocity between the observer and the moving clock, c is the speed of light
 
 ## Time Dilation
 ![Screenshot from 2022-06-21 05-24-51](https://user-images.githubusercontent.com/45451908/174679576-53167eda-dd44-493b-b574-0e70c0900ae7.png)
@@ -22,3 +27,10 @@
 > dy'=dy => dy/dt'
 > dz'=dz => dz/dt'
 
+
+> if motion vector differs from light speed vector
+> =>decouple into u_x' and u_y'
+> c=Amplitude(u_x',u_y')
+## Lorentz Transformation of Kinematics
+> Energy types are created to rationalize the physics laws
+> p'=ɤmv
