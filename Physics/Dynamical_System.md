@@ -6,8 +6,8 @@ Differential Equation (DE)
 3. Derive the differential equation that of the system
 
 ## Lotka Voltarra model
-dx/dt=(a-by)x
-dy/dt=(-c+dx)y
+- dx/dt=(a-by)x
+- dy/dt=(-c+dx)y
 
 ![image](https://user-images.githubusercontent.com/45451908/174755507-ab30ea5f-b1be-4228-834d-b4d6f46a5939.png)
 ![image](https://user-images.githubusercontent.com/45451908/174756351-4e8a5a15-2cdb-4205-87c3-636982103a17.png)
