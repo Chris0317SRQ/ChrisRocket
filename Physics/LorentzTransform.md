@@ -34,3 +34,7 @@
 ## Lorentz Transformation of Kinematics
 > Energy types are created to rationalize the physics laws
 > p'=ɤmv
+
+#### Reference
+1. https://en.wikipedia.org/wiki/Time_dilation
+2. https://mooc.nthu.edu.tw/
