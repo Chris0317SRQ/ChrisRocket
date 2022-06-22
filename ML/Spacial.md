@@ -1,1 +1,0 @@
-# [Spacial Transformer Networks](https://pytorch.org/tutorials/intermediate/spatial_transformer_tutorial.html#:~:text=Spatial%20transformer%20networks%20are%20a,geometric%20invariance%20of%20the%20model)

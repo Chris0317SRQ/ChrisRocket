@@ -9,7 +9,7 @@
    3. Regression and Classifiacation
 2. Self Attention: Primarily Image Processing
    1. Transformer
-   2. [SPATIAL TRANSFORMER NETWORKS](Spacial.md)
+   2. [SPATIAL TRANSFORMER NETWORKS](Spatial.md)
 3. Explainable AI
 4. Attack and Adaption (L10,11)
 5. Reinforcement Learning
