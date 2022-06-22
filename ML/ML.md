@@ -4,13 +4,12 @@
 
 ### Learning Schedule
 1. Mathematical Modeling
-   1. [Modeling Regression Model](MathModel.md)
+   1. [Modeling the Regression Model](MathModel.md)
    2. [Quantum Circuit Composing](../CS/Quantum/Q_Circuit_Composing.md)
-   3. Regression
-   4. Classifiacation
+   3. Regression and Classifiacation
 2. Self Attention: Primarily Image Processing
    1. Transformer
-   2. SPATIAL TRANSFORMER NETWORKS
+   2. [SPATIAL TRANSFORMER NETWORKS](Spacial.md)
 3. Explainable AI
 4. Attack and Adaption (L10,11)
 5. Reinforcement Learning
