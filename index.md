@@ -57,7 +57,7 @@ This is the third time I have participated in the Astrobee Programming Challenge
 
 ## Quantum
 
-### [Quantum Computer Science](CS/Quantum_CS.md)
+### [Quantum Computer Science](CS/Quantum/Quantum_CS.md)
 
 ## Preparation for University
 
