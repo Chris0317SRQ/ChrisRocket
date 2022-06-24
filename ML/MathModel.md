@@ -1,6 +1,12 @@
 # Machine Learning Mathematical Modeling
-6/22~6/24 Try Modeling the following code with tensors and functions
+6/22~6/24 Try Modeling the following things with tensors and functions
+## Content
+1. Loss function for high dimension
+2. Gradient descent + Momentum
+3. Adam
+4. trainer
 
+## Loss function
 ```python
 def trainer(train_loader, valid_loader, model, config, device):
 
