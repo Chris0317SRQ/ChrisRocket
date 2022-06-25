@@ -1,16 +1,21 @@
-# Why Gradient descent but not the standard calculus method?
-6/22~6/24 Try Modeling the following things with tensors and functions
+# Why chooses Adam over solving the eigenvalues of hessian matrix?
 
-Confirm correctness with professors
-## Can we minimize the loss function by solving the hessian matrix but not these classical optimizers?
-![image](https://user-images.githubusercontent.com/45451908/175523401-b1175b31-8a1a-4df2-ae1e-350a33f223c4.png)
+>Confirm correctness with professors
 
-## Solving it with Quantum Computer (QAE+Qubo for Quantum Annealing)
+## Why Adam?
+The initial loss function of weights and biases is known after an epoch. However, we aren’t going to solve it because of the increment of the time complexity.
 
-## Is the time complexity of Quantum Annealing Eigensolver (QAE) + Qubo greater than Quantum Gradient Descent (QGD)?
+```math
+O(Adam)=O(ngd)
+O(solve eigenvalues of hessian)>O(n^4)
+T(Adam)<T(SGD)
+```
+Hence, we choose Adam instead of the alternate method.
 
->Note that QAE (Annealing) can solve the eigenvalues of a matrix with higher dimensions than VQE (Quantum gates). It is because the qubits aren't enough.
+## The training process
+1. The input vector isn’t a batch. One inputs the vector to compute the loss function of a batch with Adam (minimizing the gradient of loss function ). Nonetheless, one only updates biases and weights every time an epoch terminates.
+2. One will walk to the minima faster if one has a more optimized learning rate function.
 
+## [Quantum Gradient Descent and Newton](https://arxiv.org/pdf/1612.01789.pdf)
 
-
-## [Why Quantum Gradient Descent or Newton? Why not solve it with the method mentioned above?](https://arxiv.org/pdf/1612.01789.pdf)
+>(BTW, QAE (Annealing) can solve the eigenvalues of a matrix with higher dimensions than VQE (Quantum gates). It is because the qubits aren't enough.
