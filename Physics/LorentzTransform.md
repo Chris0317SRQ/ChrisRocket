@@ -28,14 +28,14 @@ $$l=\frac{1}{\gamma}l_0$$
 ## Lorentz Transformation of Velocity
 > For motion vector
 
-### $$x=l+vt, x'=l_0$$
-### $$x=x'\sqrt{1-\frac{v^2}{c^2}}+vt$$
-### $$x'=\frac{1}{\sqrt{1-\frac{v^2}{c^2}}}(x-vt)$$
+$$x=l+vt, x'=l_0$$
+$$x=x'\sqrt{1-\frac{v^2}{c^2}}+vt$$
+$$x'=\frac{1}{\sqrt{1-\frac{v^2}{c^2}}}(x-vt)$$
 
-### $$x'=\gamma(x-vt)$$
-### $$t'=\gamma(t-\frac{v}{c^2}x)$$
+$$x'=\gamma(x-vt)$$
+$$t'=\gamma(t-\frac{v}{c^2}x)$$
 
-### $$\frac{dx'}{dt'}=\frac{\gamma(dx-vdt)}{\gamma(dt-\frac{vdx}{c^2})}=\frac{\frac{dx}{dt}-v}{1-\frac{v\frac{dx}{dt}}{c^2}}$$
+$$\frac{dx'}{dt'}=\frac{\gamma(dx-vdt)}{\gamma(dt-\frac{vdx}{c^2})}=\frac{\frac{dx}{dt}-v}{1-\frac{v\frac{dx}{dt}}{c^2}}$$
 
 > For vectors orthogonal to the motion vector
 > $$dy'=dy \Rightarrow \frac{dy}{dt'}$$
