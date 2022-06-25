@@ -9,9 +9,16 @@
 ## Time Dilation
 ![Screenshot from 2022-06-21 05-24-51](https://user-images.githubusercontent.com/45451908/174679576-53167eda-dd44-493b-b574-0e70c0900ae7.png)
 
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=default'></script>
+
 ## Length Contraction
 > For length on the motion vector
 
+$$l+v\Delta t_1=c\Delta t_1$$
+$$c\Delta t_2+v\Delta t_2=l$$
+$$\Delta t=\Delta t_1+\Delta t_2$$
+$$l=l_0\sqrt{1-\frac{v^2}{c^2}}$$
+$$l=\frac{1}{\gamma}l_0$$
 ![Screenshot from 2022-06-21 05-45-42](https://user-images.githubusercontent.com/45451908/174681468-ccab8c12-d833-469b-86f2-2051d459dcab.png)
 
 # Lorentz Transformation
