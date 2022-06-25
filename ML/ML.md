@@ -4,7 +4,7 @@
 
 ### Learning Schedule
 1. Mathematical Modeling
-   1. [Why Gradient descent but not the standard calculus method?](MathModel.md)
+   1. [Why chooses Adam over solving the eigenvalues of the Hessian matrix?](MathModel.md)
    2. [Quantum Circuit Composing](../CS/Quantum/Q_Circuit_Composing.md)
    3. Regression and Classifiacation
 2. Self Attention: Primarily Image Processing

@@ -1,4 +1,4 @@
-# Why chooses Adam over solving the eigenvalues of hessian matrix?
+# Why chooses Adam over solving the eigenvalues of the Hessian matrix?
 
 >Confirm correctness with professors
 
