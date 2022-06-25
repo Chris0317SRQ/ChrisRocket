@@ -2,6 +2,9 @@
 
 >Confirm correctness with professors
 
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=default'></script>
+
+$$\vec{x}=v_0t+\frac{1}{2}at^2$$
 ## Why Adam?
 The initial loss function of weights and biases is known after an epoch. However, we aren’t going to solve it because of the increment of the time complexity.
 
