@@ -23,3 +23,4 @@
 |Code| Characteristic|
 |-|-|
 |[N-fold Cross Validation](Nfold.md)|Preprocess|
+|[Plot model]()|
