@@ -227,3 +227,5 @@ exclude:
 
 
 destination: ./build
+
+theme: jekyll-theme-architect
