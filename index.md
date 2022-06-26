@@ -1,5 +1,4 @@
-## Chris-Rocket
-### Introduction
+# Chris (YU-CHEN HUNG)
 
 |Age|Achievement|holder|Characteristic|
 |-|-|-|-|
