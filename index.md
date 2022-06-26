@@ -14,35 +14,50 @@ Email **hyuchen869@gmail.com** if you require a guide, a tutor, or collaboration
 # 2022~2024 Building a Robust Knowledge Base
 > [Study Plan](Study_Plan.html)
 
-# Summer, 2022
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <script type="text/javascript">
+    google.charts.load('current', {'packages':['gantt']});
+    google.charts.setOnLoadCallback(drawChart);
 
-## Fundamentals
+    function daysToMilliseconds(days) {
+      return days * 24 * 60 * 60 * 1000;
+    }
 
-### [Machine Learning](ML/ML.md)
-Machine Learning is an essential tool in engineering. Thus, I learned and discussed it with a Chenggong Senior High School friend. We are so self-disciplined that we even discuss, and Google meets twice weekly.
+    function drawChart() {
 
-### [Fundamental of Physics](Physics/Phy.md)
-```java
-Tree=Physics;
-Tree.Root=NTHU_AP_Phy;
-DFS(Tree.Root);
-BFS(Tree.Root);
-```
+      var data = new google.visualization.DataTable();
+      data.addColumn('string', 'Task ID');
+      data.addColumn('string', 'Task Name');
+      data.addColumn('string', 'Resource');
+      data.addColumn('date', 'Start Date');
+      data.addColumn('date', 'End Date');
+      data.addColumn('number', 'Duration');
+      data.addColumn('number', 'Percent Complete');
+      data.addColumn('string', 'Dependencies');
 
-### [Calculus](Calculus/Cal.md)
-```java
-Tree=Calculus;
-Tree.Root=NTHU_AP_Cal;
-DFS(Tree.Root);
-BFS(Tree.Root);
-```
+      data.addRows([
+        ['Research', 'Find sources', null,
+         new Date(2015, 0, 1), new Date(2015, 0, 5), null,  100,  null],
+        ['Write', 'Write paper', 'write',
+         null, new Date(2015, 0, 9), daysToMilliseconds(3), 25, 'Research,Outline'],
+        ['Cite', 'Create bibliography', 'write',
+         null, new Date(2015, 0, 7), daysToMilliseconds(1), 20, 'Research'],
+        ['Complete', 'Hand in paper', 'complete',
+         null, new Date(2015, 0, 10), daysToMilliseconds(1), 0, 'Cite,Write'],
+        ['Outline', 'Outline paper', 'write',
+         null, new Date(2015, 0, 6), daysToMilliseconds(1), 100, 'Research']
+      ]);
 
-### [Computer Science](CS/CS.md)
-Participating in Taipei's Algorithm Academic ability contest was the beginning of my unique academic career. Perhaps studying a regular computer science course is a nice try.
+      var options = {
+        height: 275
+      };
 
+      var chart = new google.visualization.Gantt(document.getElementById('chart_div'));
 
-## Control, Algorithms, and Guidance
-
+      chart.draw(data, options);
+    }
+  </script>
+  <div id="chart_div"></div>
 ### [Mathematical Modeling and Control System](Control.md)
 I started learning Control System in January 2022, right after NCKU admitted me. I started because of the work ADCS Design requires, which is an accident. However, I gradually fell in love with Control and Guidance, and I decided to DFS deeper into the knowledge of Guidance, Navigation, and Control (GNC).
 
@@ -51,14 +66,12 @@ Designing a rocket, traveling in space, and becoming an engineer working on cutt
 
 I'm learning currently by controlling a motor with many flaws. Possibly, I will start researching a hybrid rocket in July.
 
-### [Kibo RPC 3rd](KRPC.md)
-This is the third time I have participated in the Astrobee Programming Challenge. We are a team consisting of NTUEE, NCKU, and fellows from Tunisia. Our team is divided into three groups: Path, Motion, and Optimization. I'm the leader of the group Path. I designed Hessian Matrix Solution to the Path optimization Mathematical Model, Edge dividing search method, and an algorithm to detect if the Path pass through KOZ.
 
 ## Quantum
 
 ### [Quantum Computer Science](CS/Quantum/Quantum_CS.md)
 
-## Preparation for University
+### [Quantum Imformation Thory]
 
 ### [IELTS](English/IELTS.md)
 

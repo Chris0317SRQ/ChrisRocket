@@ -4,6 +4,32 @@
 3. Quantum
 4. Guidance, Control, and Navigation
 
+## [Machine Learning](ML/ML.md)
+Machine Learning is an essential tool in engineering. Thus, I learned and discussed it with a Chenggong Senior High School friend. We are so self-disciplined that we even discuss, and Google meets twice weekly.
+
+## [Fundamental of Physics](Physics/Phy.md)
+```java
+Tree=Physics;
+Tree.Root=NTHU_AP_Phy;
+DFS(Tree.Root);
+BFS(Tree.Root);
+```
+## [Mathematical Modeling and Control System](Control.md)
+I started learning Control System in January 2022, right after NCKU admitted me. I started because of the work ADCS Design requires, which is an accident. However, I gradually fell in love with Control and Guidance, and I decided to DFS deeper into the knowledge of Guidance, Navigation, and Control (GNC).
+
+## [Calculus](Calculus/Cal.md)
+```java
+Tree=Calculus;
+Tree.Root=NTHU_AP_Cal;
+DFS(Tree.Root);
+BFS(Tree.Root);
+```
+
+## [Computer Science](CS/CS.md)
+Participating in Taipei's Algorithm Academic ability contest was the beginning of my unique academic career. Perhaps studying a regular computer science course is a nice try.
+
+## [Quantum Computer Science](CS/Quantum/Quantum_CS.md)
+
 # 2022 Fall
 ## Must
 1. Machine Shop practice 1
