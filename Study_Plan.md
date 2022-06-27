@@ -30,6 +30,13 @@ Participating in Taipei's Algorithm Academic ability contest was the beginning o
 
 ## [Quantum Computer Science](CS/Quantum/Quantum_CS.md)
 
+### [Mathematical Modeling and Control System](Control.md)
+I started learning Control System in January 2022, right after NCKU admitted me. I started because of the work ADCS Design requires, which is an accident. However, I gradually fell in love with Control and Guidance, and I decided to DFS deeper into the knowledge of Guidance, Navigation, and Control (GNC).
+
+### [Rocket GNC](RGNC.md)
+Designing a rocket, traveling in space, and becoming an engineer working on cutting-edge technology are always my dreams. There's one characteristic in which I am significantly different from most Taiwanese students: I not only daydream about achieving any great goals but also do my best to find resources, spend time studying the subject, and implement it. If one doesn't try, one will never go nearer to success. Thus, after spending time learning the fundamentals of Rocket GNC, I immediately sent an email to Prof.Wei, not expecting ARRC to admit me. Out of the blue, I was admitted the next day. 
+
+I'm learning currently by controlling a motor with many flaws. Possibly, I will start researching a hybrid rocket in July.
 # 2022 Fall
 ## Must
 1. Machine Shop practice 1
@@ -43,7 +50,14 @@ Participating in Taipei's Algorithm Academic ability contest was the beginning o
 ## Not urgent
 1. BUSINESS MODEL ANALYSIS AND DESIGN 2 (Not urgent)
 2. CAPSTONE PROJECT ON AEROSPACE ENGINEERING(1) 2 Do projects from ARRC？
-### Audit or Coursera
+
+
+## Audit or Coursera
 3. INTRODUCTION TO ARTIFICIAL INTELLIGENCE 3 (It's actually for 4th-grade students)
 4. Introduction to guidance and navigation (Audit)
 Space Dynamics
+5. Engineering Mathematics
+
+## 2023 Spring
+1. Linear Algebra
+2. 
