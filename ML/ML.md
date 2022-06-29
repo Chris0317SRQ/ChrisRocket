@@ -4,18 +4,20 @@
 
 ### Learning Schedule
 1. Mathematical Modeling
-   1. [Why chooses Adam over solving the eigenvalues of the Hessian matrix?](MathModel.md)
-   2. [Quantum Circuit Composing](../CS/Quantum/Q_Circuit_Composing.md)
-   3. Regression and Classifiacation
+   1. [Presentation: Why chooses Adam over solving the eigenvalues of the Hessian matrix?](MathModel.md)
+   2. [Implementation: Quantum Circuit Composing](../CS/Quantum/Q_Circuit_Composing.md)
+   3. [Project: Regression and Classifiacation](R_andC_Implementation.md)
 2. Self Attention: Primarily Image Processing
-   1. Transformer
-   2. [SPATIAL TRANSFORMER NETWORKS](Spatial.md)
+   1. An intro: CNN
+   2. Presentation: Transformer
+   3. [Project: SPATIAL TRANSFORMER NETWORKS](Spatial.md)
 3. Explainable AI
 4. Attack and Adaption (L10,11)
 5. Reinforcement Learning
-6. Life-long Learning
-7. QAOA
-8. Quantum Machine Learning
+6. Various model and its application
+7. Life-long Learning
+8. QAOA
+9. Quantum Machine Learning
 
 
 ### Program library
