@@ -25,4 +25,4 @@
 |Code| Characteristic|
 |-|-|
 |[N-fold Cross Validation](Nfold.md)|Preprocess|
-|[Plot model]()|
+|[Plot model](https://zhuanlan.zhihu.com/p/37626738)|
