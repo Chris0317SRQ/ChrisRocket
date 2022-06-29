@@ -5,7 +5,7 @@
 ### Learning Schedule
 1. Mathematical Modeling 7/1
    1. [Presentation: Why chooses Adam over solving the eigenvalues of the Hessian matrix?](MathModel.md)
-   2. [Implementation: Quantum Circuit Composing](../CS/Quantum/Q_Circuit_Composing.md)
+   2. [Side Project: Quantum Circuit Composing](../CS/Quantum/Q_Circuit_Composing.md)
    3. [Project: Regression and Classifiacation](R_andC_Implementation.md)
 2. Self Attention: Primarily Image Processing 7/6
    1. An intro: CNN
