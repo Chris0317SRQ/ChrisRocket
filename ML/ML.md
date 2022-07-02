@@ -28,9 +28,9 @@
 9. Quantum Machine Learning
 
 
-### Program library
+## Program library
 
 |Code| Characteristic|
 |-|-|
 |[N-fold Cross Validation](Nfold.md)|Preprocess|
-|[Plot model](https://zhuanlan.zhihu.com/p/37626738)|
+|[Plot model](https://zhuanlan.zhihu.com/p/37626738)|Plot|
