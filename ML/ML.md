@@ -11,18 +11,20 @@
 6. [ML code template](https://www.superdatascience.com/pages/%E4%B8%8B%E8%BD%BD%E6%95%B0%E6%8D%AE%E9%9B%86)
 
 ### Learning Schedule
-1. Mathematical Modeling 7/2
+<iframe src="https://calendar.google.com/calendar/embed?src=t6d7kq44prlsmpo1uu2h41kc4s%40group.calendar.google.com&ctz=Asia%2FTaipei" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+1. Mathematical Modeling 
    1. [Presentation: Why chooses Adam over solving the eigenvalues of the Hessian matrix?](MathModel.md)
    2. [Side Project: Quantum Circuit Composing](../CS/Quantum/Q_Circuit_Composing.md)
    3. [Project: Regression and Classifiacation](R_andC_Implementation.md)
-2. Self Attention: Primarily Image Processing 7/9
+2. Self Attention: Primarily Image Processing
    1. An intro: CNN
    2. Presentation: Transformer
    3. [Project: SPATIAL TRANSFORMER NETWORKS](Spatial.md)
-3. Explainable AI 7/16
-4. Attack and Adaption (L10,11) 7/23
-5. Reinforcement Learning 7/30
-6. Various model and its application 8/6
+3. Explainable AI 
+4. Attack and Adaption (L10,11) 
+5. Reinforcement Learning 
+6. Various model and its application
 7. Life-long Learning
 8. QAOA
 9. Quantum Machine Learning
