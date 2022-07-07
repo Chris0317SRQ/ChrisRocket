@@ -11,6 +11,7 @@
 6. [ML code template](https://www.superdatascience.com/pages/%E4%B8%8B%E8%BD%BD%E6%95%B0%E6%8D%AE%E9%9B%86)
 
 ### Learning Schedule
+![Screenshot from 2022-07-07 15-53-21](https://user-images.githubusercontent.com/45451908/177722170-a185c584-28cd-4ef7-9acf-59e23aae6bac.png)
 
 1. Mathematical Modeling 
    1. [Presentation: Why chooses Adam over solving the eigenvalues of the Hessian matrix?](MathModel.md)
